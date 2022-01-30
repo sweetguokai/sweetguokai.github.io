@@ -1,10 +1,27 @@
 #EXTM3U
-豆瓣高分http://baiducdncmn2.inter.iqiyi.com/tslive/c15_lb_wuxingyingyuan_1080p_t10/c15_lb_wuxingyingyuan_1080p_t10.m3u8
-动作电影http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_dongzuodianying_720p_t10/c19_lb_dongzuodianying_720p_t10.m3u8
-电影大片http://baiducdncmn2.inter.iqiyi.com/tslive/c18_lb_dianyingjingxuan_720p_t10/c18_lb_dianyingjingxuan_720p_t10.m3u8
-惊悚午夜场http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_jingnawuyechang_720p_t10/c19_lb_jingnawuyechang_720p_t10.m3u8
-周末影院http://baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_fengxiaogang_720p_t10/c17_lb_fengxiaogang_720p_t10.m3u8
-票房收割机http://baiducdncmn2.inter.iqiyi.com/tslive/c18_lb_heibangdianying_720p_t10/c18_lb_heibangdianying_720p_t10.m3u8
-经典港片http://baiducdncmn2.inter.iqiyi.com/tslive/c19_lb_jingdianguangpian_720p_t10/c19_lb_jingdianguangpian_720p_t10.m3u8
-温情影院http://baiducdncmn2.inter.iqiyi.com/tslive/c17_lb_chenglong_high_t10/c17_lb_chenglong_high_t10.m3u8
-贺岁影院http://baiducdncmn2.inter.iqiyi.com/tslive/c16_lb_haolaiwudapian_1080p_t10/c16_lb_haolaiwudapian_1080p_t10.m3u8
+#EXTINF:-1 ,华数_社会真相
+http://hls-ott-zhibo.wasu.tv/live/130/index.m3u8
+#EXTINF:-1 ,华数_军事纪实
+http://hls-ott-zhibo.wasu.tv/live/392/index.m3u8
+#EXTINF:-1 ,华数_科教人文
+http://hls-ott-zhibo.wasu.tv/live/391/index.m3u8
+#EXTINF:-1 ,华数_大国时代
+http://hls-ott-zhibo.wasu.tv/live/390/index.m3u8
+#EXTINF:-1 ,华数_剧情
+http://hls-ott-zhibo.wasu.tv/live/184/index.m3u8
+#EXTINF:-1 ,华数_百看不厌
+http://hls-ott-zhibo.wasu.tv/live/259/index.m3u8
+#EXTINF:-1 ,华数_睡前故事
+http://hls-ott-zhibo.wasu.tv/live/332/index.m3u8
+#EXTINF:-1 ,华数_游戏5
+http://hls-ott-zhibo.wasu.tv/live/273/index.m3u8
+#EXTINF:-1 ,华数_时尚1
+http://hls-ott-zhibo.wasu.tv/live/300/index.m3u8
+#EXTINF:-1 ,华数_时尚2
+http://hls-ott-zhibo.wasu.tv/live/304/index.m3u8
+#EXTINF:-1 ,华数_时装1
+http://hls-ott-zhibo.wasu.tv/live/297/index.m3u8
+#EXTINF:-1 ,华数_时装2
+http://hls-ott-zhibo.wasu.tv/live/299/index.m3u8
+#EXTINF:-1 ,虎牙_电影解说
+http://tx.hls.huya.com/huyalive/94525224-2583571962-11096357083652554752-3503038830-10057-A-0-1.m3u8
