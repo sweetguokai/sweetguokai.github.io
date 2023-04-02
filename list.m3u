@@ -1,40 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视线路8m",CCTV1 
-http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视线路8m",CCTV2
-http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视线路8m",CCTV3
-http://live.cooltv.top/tv/aishang.php?id=cctv3hd
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视线路8m",CCTV4
-http://live.cooltv.top/tv/aishang.php?id=cctv4hd
-#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视线路8m",CCTV5
-http://live.cooltv.top/tv/aishang.php?id=cctv5hd
-#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视线路8m",CCTV5+
-http://125.210.152.19:9120/live/hzgq-cctvzhgq-h264.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视线路8m",CCTV6
-http://live.cooltv.top/tv/aishang.php?id=cctv6hd
-#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视线路8m",CCTV7
-http://live.cooltv.top/tv/aishang.php?id=cctv7hd
-#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视线路8m",CCTV8
-http://live.cooltv.top/tv/aishang.php?id=cctv8hd
-#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视线路8m",CCTV9
-http://live.cooltv.top/tv/aishang.php?id=cctv9hd
-#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视线路8m",CCTV10
-http://live.cooltv.top/tv/aishang.php?id=cctv10hd
-#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视线路8m",CCTV11
-http://live.cooltv.top/tv/aishang.php?id=cctv11hd
-#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视线路8m",CCTV12
-http://live.cooltv.top/tv/aishang.php?id=cctv12hd
-#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视线路8m",CCTV13
-http://live.cooltv.top/tv/aishang.php?id=cctv13hd
-#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视线路8m",CCTV14
-http://live.cooltv.top/tv/aishang.php?id=cctv14hd
-#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视线路8m",CCTV15
-http://live.cooltv.top/tv/aishang.php?id=cctv15hd
-#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视线路8m",CCTV16
-http://live.cooltv.top/tv/aishang.php?id=cctv16hd
-#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视线路8m",CCTV17
-http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视IPv6",cctv1
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225642/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视IPv6",cctv2
